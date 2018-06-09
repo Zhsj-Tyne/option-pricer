@@ -1,4 +1,4 @@
 # option-pricer
-Monte Carlo&amp;Control Virate&amp;Binomial
+Monte Carlo&amp;Control variate&amp;Binomial
 Teamwork
 webpage version
